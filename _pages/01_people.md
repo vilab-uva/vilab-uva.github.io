@@ -158,6 +158,29 @@ Master's Student, Department of Electrical and Computer Engineering<br/>
  &nbsp; &nbsp; &nbsp; 
 </td>
 <td>
+<big><strong>Po Wei Tsao</strong></big> <br/>
+<p style="font-size: 12px;
+      line-height: 18px;">
+Undergraduate Student, Computer Science<br/>
+<br/>
+<i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: pt5rsx [at] virginia [dot] edu<br/>
+</p>
+<a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
+<a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
+<a href="" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
+<a href="" target="_blank"><i class="ion ion-logo-github"></i></a>
+</td>
+</tr>
+<tr>
+<td>
+<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
+</td>
+<td>
+ &nbsp; &nbsp; &nbsp; 
+</td>
+<td>
 <big><strong>Akhil Havaldar</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">

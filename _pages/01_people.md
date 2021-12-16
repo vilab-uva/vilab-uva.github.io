@@ -9,7 +9,7 @@ image: group.jpg
 <table>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/baek.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/baek.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
@@ -22,8 +22,8 @@ Associate Professor of Data Science<br/>
 Associate Professor of Mechanical and Aerospace Engineering (by courtesy)<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room 189A, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: baek [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: baek [at] virginia [dot] edu<br/>
 <i class="ion ion-ios-home"></i>: <a href="http://www.stephenbaek.com" target="_blank">http://www.stephenbaek.com</a><br/>
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
@@ -40,7 +40,7 @@ Associate Professor of Mechanical and Aerospace Engineering (by courtesy)<br/>
 <table>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
@@ -52,8 +52,8 @@ Associate Professor of Mechanical and Aerospace Engineering (by courtesy)<br/>
 Postdoctoral Research Associate, School of Data Science<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: phongnguyen [at] virginia [dot] edu<br/>
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
 <a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
@@ -69,43 +69,21 @@ Postdoctoral Research Associate, School of Data Science<br/>
 <table>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
 </td>
 <td>
-<big><strong>Phong Nguyen</strong></big> <br/>
+<big><strong>Joseph Choi</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">
-Postdoctoral Research Associate, School of Data Science<br/>
+Ph.D. Student, School of Data Science<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
-</p>
-<a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-github"></i></a>
-</td>
-</tr>
-<tr>
-<td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
-</td>
-<td>
- &nbsp; &nbsp; &nbsp; 
-</td>
-<td>
-<big><strong>Phong Nguyen</strong></big> <br/>
-<p style="font-size: 12px;
-      line-height: 18px;">
-Postdoctoral Research Associate, School of Data Science<br/>
-<br/>
-<i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: XXX [at] virginia [dot] edu<br/>
+
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
 <a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
@@ -121,20 +99,20 @@ Postdoctoral Research Associate, School of Data Science<br/>
 <table>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
 </td>
 <td>
-<big><strong>Phong Nguyen</strong></big> <br/>
+<big><strong>Navya Annapareddy</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">
-Postdoctoral Research Associate, School of Data Science<br/>
+Master's Student, School of Data Science<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: na3au [at] virginia [dot] edu<br/>
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
 <a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
@@ -144,20 +122,20 @@ Postdoctoral Research Associate, School of Data Science<br/>
 </tr>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
 </td>
 <td>
-<big><strong>Phong Nguyen</strong></big> <br/>
+<big><strong>Ruixuan Tang</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">
-Postdoctoral Research Associate, School of Data Science<br/>
+Master's Student, Department of Electrical and Computer Engineering<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: rt5tb [at] virginia [dot] edu<br/>
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
 <a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
@@ -174,20 +152,20 @@ Postdoctoral Research Associate, School of Data Science<br/>
 <table>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
 </td>
 <td>
-<big><strong>Phong Nguyen</strong></big> <br/>
+<big><strong>Akhil Havaldar</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">
-Postdoctoral Research Associate, School of Data Science<br/>
+Undergraduate Student, Economics & Applied Statistics<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: ash2sfp [at] virginia [dot] edu<br/>
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
 <a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
@@ -197,20 +175,20 @@ Postdoctoral Research Associate, School of Data Science<br/>
 </tr>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/nguyen.jpg" width="200px" height="200px" style="border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
 </td>
 <td>
-<big><strong>Phong Nguyen</strong></big> <br/>
+<big><strong>Jiayi (Jenny) Niu</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">
-Postdoctoral Research Associate, School of Data Science<br/>
+Undergraduate Student, Applied Statistics & Mathematics<br/>
 <br/>
 <i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-☎: 123-456-7890<br/>
-✉: phongnguyen [at] virginia [dot] edu<br/>
+<i class="ion ion-md-call"></i>: 123-456-7890<br/>
+<i class="ion ion-ios-mail"></i>: nwb4td [at] virginia [dot] edu<br/>
 </p>
 <a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
 <a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>

@@ -1,0 +1,133 @@
+I"P<p><img src="/projects/imagiq/img/imagiq-logo.png" alt="" /></p>
+
+<p><br /> </p>
+
+<h1 id="imagiq-asynchronous-and-decentralized-federated-learning-for-medical-imaging">ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging</h1>
+
+<p><img src="/projects/imagiq/img/imagiq_fl.png" alt="" /></p>
+
+<h3 id="abstract">Abstract</h3>
+<p>ImagiQ (pronounced “image-IQ”) is a research project funded by the National Science Foundation’s <a href="https://www.nsf.gov/od/oia/convergence-accelerator/">Convergence Accelerator Program</a> (Track D-0532; OIA #2040532 - PI Stephen Baek). The project aim to solve one of the most critical challenges in adapting AI technologies in medical imaging—the issue of patient data sharing: Many of the modern AI models are extremely data-hungry and require a large cohort of patient data for training and validation. However, creating a large dataset can be tremendously expensive, as it requires a lot of manual labor, tedious data annotation tasks, expensive physician time, and such. Collecting datasets across multiple hospitals collaboratively may mitigate this issue, but this imposes a great deal of practical impediments including HIPAA regulation, IRB protocols, etc.</p>
+
+<p>To this end, ImagiQ aims to develop a use-inspired technology for federated learning. The project entails collaboration among 5 academic institutions across the United States, including the University of Iowa, Stanford, University of Chicago, Harvard, and Yale, as well as industry partners such as NVIDIA, Lunit, Digital Diagnostics, and a few others. This project will result in a new, use-inspired platform for collaborative AI model development that removes the hurdles of sharing sensitive medical imaging data. The new platform will accelerate the translation of AI models into clinics, while still more rigorously validating them on large, heterogeneous patient data. <strong>For patients and doctors</strong>, this innovative technology will help to improve the quality of healthcare by augmenting the cognitive capacity of clinicians with more accurate, trustworthy, and safe AI. <strong>For medical researchers</strong>, the new platform will considerably accelerate scientific discovery by removing the hurdles of extramural model training and validation. <strong>For industry</strong>, the newly developed open-source ImagiQ platform will serve as a convenient framework for developing FL solutions. <strong>Externally to medical imaging</strong>, the proposed concept is easily extensible to broader areas, where sharing sensitive data is the major bottleneck, such as connected vehicles, national security/defense, consumer electronics, etc., and will benefit the society with safer and more reliable AI.</p>
+
+<p><strong>Keywords:</strong>  Federated learning, medical imaging, distributed learning, data privacy, model sharing</p>
+
+<p><img src="/projects/imagiq/img/NSF_CA_H_LOGO_LOCKUP_BLACK.png" alt="" /></p>
+
+<p><br /> </p>
+
+<h2 id="source-code">Source Code</h2>
+<p>One of the deliverables of this project is an open source Python framework that includes scalable components to implement the above idea. The framework is currently under development and will be shared to the public some time in 2021. Stay tuned!</p>
+
+<p><br /> </p>
+
+<h2 id="federated-learning-webinar-series">Federated Learning Webinar Series</h2>
+
+<ol>
+  <li>
+    <p><strong>Scaling AI to Develop Robust Applications in Medical Imaging</strong><br />
+<strong>Daniel Rubin, MD, MS</strong>  (Stanford University)<br />
+<em>Wednesday, March 10, 2021. 1:30 PM – 2:15 PM (U.S. Eastern Time)</em><br />
+Registration: Closed<br />
+<a href="https://youtu.be/EsfAZmAz53o">Video Recording</a></p>
+  </li>
+  <li>
+    <p><strong>Challenges of AI in real-world medicine: brittleness, explainability and bias [Experiences from Medical Imaging]</strong><br />
+<strong>Jayashree Kalpathy-Cramer, PhD</strong>  (Harvard University)<br />
+<em>Wednesday, March 24, 2021. 11:00 AM – 12:15 PM (U.S. Eastern Time)</em><br />
+Registration: Closed<br />
+<a href="https://youtu.be/EJr967wdxz8">Video Recording</a></p>
+  </li>
+  <li>
+    <p><strong>Preparing Your Radiology Practice and IT Department for Big Data and AI</strong><br />
+<strong>Paul Chang, MD</strong>  (University of Chicago)<br />
+<em>Friday, April 16, 2021. 12:15 PM – 1:30 PM (U.S. Eastern Time)</em><br />
+Registration: Closed<br />
+Video Recording (coming soon!)</p>
+  </li>
+  <li>
+    <p><strong>Title: To be announced</strong><br />
+<strong>Spyridon (Spyros) Bakas, PhD</strong>  (University of Pennsylvania)<br />
+<em>Time and date to be announced</em><br />
+Register (free): <a href="http://bit.ly/imagiq-sb">http://bit.ly/imagiq-sb</a></p>
+  </li>
+</ol>
+
+<p><br /> </p>
+
+<h2 id="publications">Publications</h2>
+<p>Under preparation</p>
+
+<p><br /> </p>
+
+<h2 id="patents">Patents</h2>
+<p>Under preparation</p>
+
+<p><br /> </p>
+
+<h2 id="the-team">The Team</h2>
+
+<h3 id="principal-investigators">Principal Investigators</h3>
+<ul>
+  <li>Stephen Baek, PhD (University of Iowa)</li>
+  <li>Nick Street, PhD (University of Iowa)</li>
+  <li>Xiaodong Wu, PhD (University of Iowa)</li>
+  <li>Danial Rubin, MD, MS (Stanford University)</li>
+  <li>Paul Chang, MD (University of Chicago)</li>
+  <li>Jayashree Kalpathy-Cramer, PhD (Harvard University)</li>
+  <li>Sanjay Aneja, MD (Yale University)</li>
+</ul>
+
+<h3 id="other-senior-personnel">Other Senior Personnel</h3>
+<ul>
+  <li>Qihang Lin, PhD (University of Iowa)</li>
+  <li>Patrick Fan, PhD (University of Iowa)</li>
+  <li>Michael Abramoff, MD, PhD (University of Iowa)</li>
+  <li>Omar Chowdhury, PhD (University of Iowa)</li>
+  <li>Tong Wang, PhD (University of Iowa)</li>
+  <li>John Buatti, MD (University of Iowa)</li>
+  <li>Sandeep Laroia, MD (University of Iowa)</li>
+  <li>Archana Laroia, MD (University of Iowa)</li>
+  <li>Changhyun Lee, MD, PhD, FSCBTMR (University of Iowa)</li>
+</ul>
+
+<h3 id="postgraduate-scholarsresearch-staff">Postgraduate Scholars/Research Staff</h3>
+<ul>
+  <li>Jerome Charton, PhD (University of Iowa)</li>
+  <li>Emel Alkim, PhD (Stanford University)</li>
+  <li>Praveer Singh, PhD (Harvard Medical School)</li>
+  <li>Charles Lu, PhD (Harvard Medical School)</li>
+</ul>
+
+<h3 id="graduate-students">Graduate Students</h3>
+<ul>
+  <li>Joseph Choi (University of Iowa)</li>
+  <li>Stjepan Fiolic (University of Iowa)</li>
+  <li>Yaohua Wang (University of Iowa)</li>
+  <li>Yomi Kang (University of Iowa)</li>
+  <li>Yankun Huang (University of Iowa)</li>
+</ul>
+
+<h3 id="project-manager">Project Manager</h3>
+<ul>
+  <li>Janie Kesselring (University of Iowa)</li>
+</ul>
+
+<p><br /> </p>
+
+<h2 id="imagiq-partners">ImagiQ Partners</h2>
+<h3 id="industry">Industry</h3>
+<ul>
+  <li>NVIDIA</li>
+  <li>Lunit</li>
+  <li>Digital Diagnostics (Formerly known as IDx Technologies)</li>
+  <li>Imagoworks</li>
+</ul>
+
+<h3 id="academic">Academic</h3>
+<ul>
+  <li>Seoul National University Hospital</li>
+  <li>Yonsei University Severance Hospital</li>
+</ul>
+:ET

@@ -175,7 +175,7 @@ Undergraduate Student, Computer Science<br/>
 </tr>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/havaldar.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
@@ -186,19 +186,17 @@ Undergraduate Student, Computer Science<br/>
       line-height: 18px;">
 Undergraduate Student, Economics & Applied Statistics<br/>
 <br/>
-<i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-<i class="ion ion-md-call"></i>: 123-456-7890<br/>
 <i class="ion ion-ios-mail"></i>: ash2sfp [at] virginia [dot] edu<br/>
-</p>
-<a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-github"></i></a>
+</p> 
+<a href="https://twitter.com/ahavaldar1" target="_blank"><i class="ion ion-logo-twitter"></i></a>
+<a href="https://www.facebook.com/ahavaldar1" target="_blank"><i class="ion ion-logo-facebook"></i></a>
+<a href="https://www.linkedin.com/in/akhil-havaldar/" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
+<a href="https://github.com/ahavaldar" target="_blank"><i class="ion ion-logo-github"></i></a>
 </td>
 </tr>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/niu.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
@@ -209,14 +207,10 @@ Undergraduate Student, Economics & Applied Statistics<br/>
       line-height: 18px;">
 Undergraduate Student, Applied Statistics & Mathematics<br/>
 <br/>
-<i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-<i class="ion ion-md-call"></i>: 123-456-7890<br/>
 <i class="ion ion-ios-mail"></i>: nwb4td [at] virginia [dot] edu<br/>
 </p>
-<a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-github"></i></a>
+<a href="https://instagram.com/jiayiniuuuu" target="_blank"><i class="ion ion-logo-instagram"></i></a>
+<a href="https://github.com/niujiayi811" target="_blank"><i class="ion ion-logo-github"></i></a>
 </td>
 </tr>
 </table>
@@ -233,24 +227,27 @@ Undergraduate Student, Applied Statistics & Mathematics<br/>
 #### Undergraduate Students -->
 
 
-## Alumni <!--(University of Iowa)-->
+## Alumni (University of Iowa)
 #### Research Scientists, Postdocs, & Visiting Scholars
-<strong>Jerome Charton</strong> (2019-2021); Placement - Harvard Medical School; <a href="http://www.lab327.net/perso/charton/" target="_blank">Website</a><br/>
+<strong>Jerome Charton</strong> (2019-2021) [<a href="http://www.lab327.net/perso/charton/" target="_blank">Website</a>]; Placement - Harvard Medical School<br/>
 <strong>Nima Hamidi Ghalehjegh</strong> (2018-2019); Placement - Bayer<br/>
 <br/>
 
 #### Ph.D. Students
 <strong>Venous Roshdibenam</strong> (2017-2021); Placement - Cercacor Laboratories<br/>
-<strong>Yusen (Forest) He</strong> (2017-2020); Placement - Grinnell College; <a href="https://www.grinnell.edu/user/heyusen" target="_blank">Website</a><br/>
+<strong>Yusen (Forest) He</strong> (2017-2020) [<a href="https://www.grinnell.edu/user/heyusen" target="_blank">Website</a>]; Placement - Grinnell College<br/>
 <strong>Zhiyu Sun</strong> (2016-2019); Placement - Midea Group<br/>
 <br/>
 
 #### Master's Students
+<strong>Jessica Shull</strong> (2018-2021)<br/>
+<strong>Sehyun Chun</strong> (2019-2021)<br/>
 <strong>Benjamin Perlson</strong> (2016-2019); Placement: DHL<br/>
 <strong>Zachary Nolte</strong> (2015-2017); Placement: Epic Systems<br/>
 <strong>Samuel Mate</strong> (2015-2016); Placement: DSST Public Schools<br/>
 <br/>
 
 #### Undergraduate Students
-<strong>Baekjun Kim</strong> (2016-2017)<br/>
-<strong>Yujun Hwang</strong> (2016-2017)<br/>
+<strong>Baekjun Kim</strong> (XXXX-XXXX)<br/>
+<strong>Yujun Hwang</strong> (XXXX-XXXX)<br/>
+<strong>Marc Gozali</strong> (XXXX-XXXX)<br/>

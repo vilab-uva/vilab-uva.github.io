@@ -1,0 +1,44 @@
+#-------------------------------
+# General Site Settings
+title: Visual Intelligence @ UVA
+logo: logo_only.png # You can add own logo.
+description: The Visual Intelligence Laboratory at the University of Virginia School of Data Science.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Visual Intelligence Laboratory
+  image: group.jpg
+  say-hello: <small><small><small>Welcome to the</small></small></small><br/><strong>Visual Intelligence Laboratory</strong>
+  bio: The Visual Intelligence Laboratory @ UVA (the "VIVA Lab") is a research group directed by Professor Stephen Baek at the University of Virginia School of Data Science. We tackle both fundamental and applied research problems in <strong>geometric data analysis</strong> to understand the roles of geometry in various scientific phenomena.
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

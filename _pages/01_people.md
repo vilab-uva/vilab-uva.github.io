@@ -26,10 +26,9 @@ Associate Professor of Mechanical and Aerospace Engineering (by courtesy)<br/>
 <i class="ion ion-ios-mail"></i>: baek [at] virginia [dot] edu<br/>
 <i class="ion ion-ios-home"></i>: <a href="http://www.stephenbaek.com" target="_blank">http://www.stephenbaek.com</a><br/>
 </p>
-<a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-github"></i></a>
+<a href="https://twitter.com/stephen_baek" target="_blank"><i class="ion ion-logo-twitter"></i></a>
+<a href="https://www.linkedin.com/in/stephenbaek/" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
+<a href="https://github.com/stephenbaek" target="_blank"><i class="ion ion-logo-github"></i></a>
 </td>
 </tr>
 </table>
@@ -152,7 +151,7 @@ Master's Student, Department of Electrical and Computer Engineering<br/>
 <table>
 <tr>
 <td>
-<img src="{{site.baseurl}}/images/members/unknown.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
+<img src="{{site.baseurl}}/images/members/tsao.jpg" width="200px" height="200px" style="min-width:150px; border-radius: 50%;">
 </td>
 <td>
  &nbsp; &nbsp; &nbsp; 
@@ -161,16 +160,12 @@ Master's Student, Department of Electrical and Computer Engineering<br/>
 <big><strong>Po Wei Tsao</strong></big> <br/>
 <p style="font-size: 12px;
       line-height: 18px;">
-Undergraduate Student, Computer Science<br/>
+Undergraduate Student, B.A. Computer Science, Minor in Data Science<br/>
 <br/>
-<i class="ion ion-md-pin"></i>: Room XXX, Elson Student Health Center<br/>
-<i class="ion ion-md-call"></i>: 123-456-7890<br/>
 <i class="ion ion-ios-mail"></i>: pt5rsx [at] virginia [dot] edu<br/>
 </p>
-<a href="" target="_blank"><i class="ion ion-logo-twitter"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-facebook"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
-<a href="" target="_blank"><i class="ion ion-logo-github"></i></a>
+<a href="https://www.linkedin.com/in/poweitsao" target="_blank"><i class="ion ion-logo-linkedin"></i></a>
+<a href="https://github.com/poweitsao" target="_blank"><i class="ion ion-logo-github"></i></a>
 </td>
 </tr>
 <tr>
